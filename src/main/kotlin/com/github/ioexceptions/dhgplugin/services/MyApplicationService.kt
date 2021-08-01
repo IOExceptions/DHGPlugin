@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ioexceptions.dhgplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ioexceptions.dhgplugin.MyBundle
 
 class MyApplicationService {
 
